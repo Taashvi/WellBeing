@@ -1,0 +1,52 @@
+
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+  }
+  
+  #homepage_title{
+    height:270px;
+  }
+  
+  #clouds{
+    height:228px;
+  }
+  
+  p{
+    width: 210px;
+    padding: 25px;
+    text-align:center;
+    font-size:21px;
+  }
+  
+  #welcome{
+    background-color:#FCD5CE;
+    box-shadow: 5px 5px #F4ACB7;
+    width:300px;
+  }
+  
+  #about{
+    background-color:#FEC89A;
+    width:370px;
+  }
+  
+  #research{
+    background-color:#FCD5CE;
+    box-shadow: 5px 5px #F4ACB7;
+    width:260px;
+  }
+  
+  a{
+    margin-left:25px;
+    margin-top:200px;
+  }
+
+  .quotes_{
+    height:300px;
+    margin:50px;
+  }
+
+
+  
